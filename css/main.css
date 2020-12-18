@@ -261,3 +261,8 @@ textarea {
   }
 }
 
+  .heading1{
+    text-align: center;
+    border: #000;
+    border-radius: 2px;
+  }
