@@ -1,4 +1,4 @@
-
+console.log("Javascript is starting to run");
     // Declare variables
         var canvas = document.getElementById('gameCanvas');
         var canvasContext = canvas.getContext('2d');
@@ -128,6 +128,6 @@
             canvasContext.fill();
         }
     
-    
+        console.log("Javascript finished to load");    
 
     
